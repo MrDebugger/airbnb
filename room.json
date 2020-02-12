@@ -1,0 +1,2347 @@
+{
+    "pdp_listing_detail": {
+        "listing_amenities": [
+            {
+                "category": null,
+                "icon": "icon-meal",
+                "id": 8,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Cuisine",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "kitchen",
+                "tooltip": "Espace o\u00f9 les voyageurs peuvent cuisiner"
+            },
+            {
+                "category": null,
+                "icon": "icon-wifi",
+                "id": 4,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Wi-Fi",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "wireless_internet",
+                "tooltip": "Acc\u00e8s permanent dans le logement"
+            },
+            {
+                "category": null,
+                "icon": "icon-parking",
+                "id": 9,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Parking gratuit sur place",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "free_parking",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-pool",
+                "id": 7,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Piscine",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "pool",
+                "tooltip": "A usage priv\u00e9 ou partag\u00e9"
+            },
+            {
+                "category": null,
+                "icon": "icon-washer",
+                "id": 33,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Lave-linge",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "washer",
+                "tooltip": "Dans l'immeuble, gratuit ou payant"
+            },
+            {
+                "category": null,
+                "icon": "icon-shampoo",
+                "id": 41,
+                "is_business_ready_feature": false,
+                "is_present": false,
+                "is_safety_feature": false,
+                "name": "Shampooing",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "shampoo",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-air-conditioning",
+                "id": 5,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Climatisation",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "ac",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-tv",
+                "id": 1,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "T\u00e9l\u00e9vision",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "tv",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-iron",
+                "id": 46,
+                "is_business_ready_feature": true,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Fer \u00e0 repasser",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "iron",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-hair-dryer",
+                "id": 45,
+                "is_business_ready_feature": true,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "S\u00e8che-cheveux",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "hair-dryer",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-heating",
+                "id": 30,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Chauffage",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "heating",
+                "tooltip": "Chauffage central ou radiateur \u00e9lectrique"
+            },
+            {
+                "category": null,
+                "icon": "icon-hangers",
+                "id": 44,
+                "is_business_ready_feature": true,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Cintres",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "hangers",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-essentials",
+                "id": 40,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "\u00c9quipements de base",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "essentials",
+                "tooltip": "Serviettes, draps, savon et papier toilette"
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 77,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Eau chaude",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "hot_water",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-intercom",
+                "id": 64,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Chaise haute",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "high_chair",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-intercom",
+                "id": 72,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Lit parapluie",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "pack_n_play_travel_crib",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 90,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Cafeti\u00e8re",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "coffee_maker",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 93,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Vaisselle et couverts",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "dishes_and_silverware",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 92,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Lave-vaisselle",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "dishwasher",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 89,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Four \u00e0 micro-ondes",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "microwave",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 91,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "R\u00e9frig\u00e9rateur",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "refrigerator",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 95,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Four",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "oven",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-private-room",
+                "id": 57,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Entr\u00e9e priv\u00e9e",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "private-entrance",
+                "tooltip": "Entr\u00e9e par une rue diff\u00e9rente ou un immeuble s\u00e9par\u00e9"
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 104,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "S\u00e9jours longue dur\u00e9e autoris\u00e9s",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "long_term_stays_allowed",
+                "tooltip": "S\u00e9jours de 28 jours ou plus autoris\u00e9s"
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 85,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Draps",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "bed_linens",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 99,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Barbecue",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "bbq_area",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 100,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Patio ou balcon",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "patio_or_balcony",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": null,
+                "id": 101,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": false,
+                "name": "Jardin ou arri\u00e8re-cour",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "garden_or_backyard",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 39,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": true,
+                "name": "Extincteur",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "fire_extinguisher",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 36,
+                "is_business_ready_feature": false,
+                "is_present": false,
+                "is_safety_feature": true,
+                "name": "D\u00e9tecteur de monoxyde de carbone",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "carbon_monoxide_detector",
+                "tooltip": "L'h\u00f4te n'a pas indiqu\u00e9 si le logement dispose d'un d\u00e9tecteur de monoxyde de carbone."
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 35,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": true,
+                "name": "D\u00e9tecteur de fum\u00e9e",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "smoke_detector",
+                "tooltip": ""
+            },
+            {
+                "category": null,
+                "icon": "icon-ok",
+                "id": 37,
+                "is_business_ready_feature": false,
+                "is_present": true,
+                "is_safety_feature": true,
+                "name": "Kit de premiers secours",
+                "select_list_view_photo": null,
+                "select_tile_view_photo": null,
+                "tag": "first_aid_kit",
+                "tooltip": ""
+            }
+        ],
+        "root_amenity_sections": [
+            {
+                "id": "available_amenities",
+                "title": "\u00c9quipements",
+                "subtitle": "",
+                "amenity_ids": [
+                    8,
+                    4,
+                    9,
+                    7
+                ],
+                "photos": null
+            },
+            {
+                "id": "unavailable_safety_amenities",
+                "title": "\u00c9quipements",
+                "subtitle": "L'h\u00f4te n'a pas indiqu\u00e9 si le logement dispose d'un d\u00e9tecteur de monoxyde de carbone.",
+                "amenity_ids": [
+                    36
+                ],
+                "photos": null
+            }
+        ],
+        "see_all_amenity_sections": [
+            {
+                "id": "pdp_basic",
+                "title": "Standard",
+                "subtitle": "",
+                "amenity_ids": [
+                    4,
+                    33,
+                    5,
+                    1,
+                    46,
+                    30,
+                    40,
+                    77
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_family",
+                "title": "\u00c9quipements pour les familles",
+                "subtitle": "",
+                "amenity_ids": [
+                    64,
+                    72
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_facility",
+                "title": "Installations",
+                "subtitle": "",
+                "amenity_ids": [
+                    9,
+                    7
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_dining",
+                "title": "Restauration",
+                "subtitle": "",
+                "amenity_ids": [
+                    8,
+                    90,
+                    93,
+                    92,
+                    89,
+                    91,
+                    95
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_guest_access",
+                "title": "Acc\u00e8s des voyageurs",
+                "subtitle": "",
+                "amenity_ids": [
+                    57
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_logistics",
+                "title": "Logistique",
+                "subtitle": "",
+                "amenity_ids": [
+                    104
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_bed_bath",
+                "title": "Chambre et salle de bain",
+                "subtitle": "",
+                "amenity_ids": [
+                    45,
+                    44,
+                    85
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_outdoor",
+                "title": "Ext\u00e9rieur",
+                "subtitle": "",
+                "amenity_ids": [
+                    99,
+                    100,
+                    101
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_safety",
+                "title": "Dispositif de s\u00e9curit\u00e9",
+                "subtitle": "",
+                "amenity_ids": [
+                    39,
+                    35,
+                    37
+                ],
+                "photos": null
+            },
+            {
+                "id": "pdp_unavailable",
+                "title": "Non inclus",
+                "subtitle": "",
+                "amenity_ids": [
+                    41,
+                    36
+                ],
+                "photos": null
+            }
+        ],
+        "additional_house_rules": "",
+        "bathroom_label": "3 salles de bain",
+        "bed_label": "7 lits",
+        "bedroom_label": "3 chambres",
+        "guest_label": "7 voyageurs",
+        "highlights": [
+            {
+                "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+                "message": "Vous aurez le logement (villa) rien que pour vous.",
+                "headline": "Logement entier",
+                "position": "0",
+                "vote": null,
+                "icon": "accomodation_home",
+                "context": null
+            },
+            {
+                "type": "LISTING_SPARKLING_CLEAN",
+                "message": "4\u00a0voyageurs r\u00e9cents ont indiqu\u00e9 que ce logement \u00e9tait d'une propret\u00e9 irr\u00e9prochable.",
+                "headline": "Parfaitement propre",
+                "position": "1",
+                "vote": null,
+                "icon": "core_cleaning",
+                "context": null
+            },
+            {
+                "type": "LISTING_LOCATION_REVIEW_RATING",
+                "message": "100\u00a0% des voyageurs ont attribu\u00e9 5\u00a0\u00e9toiles \u00e0 l'emplacement du logement.",
+                "headline": "Id\u00e9alement situ\u00e9",
+                "position": "2",
+                "vote": null,
+                "icon": "core_map_pin",
+                "context": null
+            },
+            {
+                "type": "LISTING_CHECKIN_REVIEW_RATING",
+                "message": "100\u00a0% des voyageurs ont attribu\u00e9 5\u00a0\u00e9toiles \u00e0 la proc\u00e9dure d'arriv\u00e9e.",
+                "headline": "Proc\u00e9dure d'arriv\u00e9e irr\u00e9prochable",
+                "position": "3",
+                "vote": null,
+                "icon": "accomodation_keys",
+                "context": null
+            }
+        ],
+        "id": 11996314,
+        "listing_expectations": [
+            {
+                "added_details": null,
+                "title": "Le logement comprend des marches ou escaliers",
+                "type": "requires_stairs",
+                "airmoji_key": "house_rules_stairs"
+            }
+        ],
+        "listing_rooms": [
+            {
+                "beds": [
+                    {
+                        "id": "853821/couch",
+                        "quantity": 1,
+                        "type": "couch"
+                    }
+                ],
+                "id": 853821,
+                "room_number": 0
+            },
+            {
+                "beds": [
+                    {
+                        "id": "853816/double_bed",
+                        "quantity": 1,
+                        "type": "double_bed"
+                    }
+                ],
+                "id": 853816,
+                "room_number": 1
+            },
+            {
+                "beds": [
+                    {
+                        "id": "853817/double_bed",
+                        "quantity": 1,
+                        "type": "double_bed"
+                    }
+                ],
+                "id": 853817,
+                "room_number": 2
+            },
+            {
+                "beds": [
+                    {
+                        "id": "853819/single_bed",
+                        "quantity": 2,
+                        "type": "single_bed"
+                    }
+                ],
+                "id": 853819,
+                "room_number": 3
+            }
+        ],
+        "name": "Villa Regina: Above Agni, superb views and pool",
+        "p3_subject": "Villa Regina: Above Agni, superb views and pool - Villas \u00e0 louer \u00e0 Agni, Gimari",
+        "p3_summary_address": "Agni, Gimari, Corfu, Gr\u00e8ce",
+        "p3_summary_title": "Villa Regina: Above Agni, superb views and pool",
+        "person_capacity": 7,
+        "photos": [
+            {
+                "caption": "Villa Regina",
+                "id": 135708288,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=large",
+                "scrim_color": "#3E5334",
+                "small": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=small",
+                "sort_order": 1,
+                "thumbnail": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXil2hAMBQYJCBMH8wr53wFUdlwQGSwdGzASCwv46+EBW7q8zfsDOgL1O/71Bu7kdngSxEbVhL0AAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "The villa",
+                "id": 135709624,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=large",
+                "scrim_color": "#3D5A3A",
+                "small": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=small",
+                "sort_order": 2,
+                "thumbnail": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AaWupt72Fuf7Iv4BAwQCAQGkqpcQBwXo7+3K6vzr6t4Bhby40wEJ4fkC3PP+Bt7pVEMaaF6N1dQAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/2c58ec30-bdb3-46e5-811d-3a127dc65008.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Located above Agni Bay",
+                "id": 161980611,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=large",
+                "scrim_color": "#242D2A",
+                "small": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=small",
+                "sort_order": 3,
+                "thumbnail": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbPS/QwLAQwJAPHz8cS9vAGZt9Le2Mfl39nm2c8PCwcBYIelIBwMHw4CIw0EwL+wSasWFg8N9GIAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/40718498-8337-4ab5-95ed-9a2b1bcfead2.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.53166897827092
+            },
+            {
+                "caption": "Private pool",
+                "id": 135708681,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=large",
+                "scrim_color": "",
+                "small": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=small",
+                "sort_order": 4,
+                "thumbnail": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=small",
+                "preview_encoded_png": "",
+                "x_large": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/4547a97e-3426-41f0-9a64-2bbaf155af96.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Amazing views",
+                "id": 135707682,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=large",
+                "scrim_color": "#41512C",
+                "small": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=small",
+                "sort_order": 5,
+                "thumbnail": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWyq8/sFAgoOAhcOAxwKAQGApLQTJDgSEAkSCQIPBAIBPFMzCQ4S/BI2/hxTGPXKAROoyvz/BQL7AQry9RP07v5UE/nwYK04AAAAAElFTkSuQmCC",
+                "x_large": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/afcc1fa5-57de-411f-add5-fd7282d88d0c.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.3331454340473505
+            },
+            {
+                "caption": "Private pool",
+                "id": 135704290,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=large",
+                "scrim_color": "",
+                "small": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=small",
+                "sort_order": 6,
+                "thumbnail": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=small",
+                "preview_encoded_png": "",
+                "x_large": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/9ca06450-8a2a-45cd-8547-994bf82a6737.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5
+            },
+            {
+                "caption": "Private pool and views",
+                "id": 135707499,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=large",
+                "scrim_color": "#2F3D2C",
+                "small": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=small",
+                "sort_order": 7,
+                "thumbnail": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXik1gwNCw0MBhEKAvbv5gFldFXsDjACEiMA6tn88vABwce87QP/8wALCPbo8PoBs40VU6anOT8AAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/3cdc282f-5091-41e7-845e-380ae519a1bd.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5014100394811054
+            },
+            {
+                "caption": "Villa Regina",
+                "id": 135701755,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=large",
+                "scrim_color": "#434C3B",
+                "small": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=small",
+                "sort_order": 8,
+                "thumbnail": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPMWnDv938mnm93f7y9qsP3nNE3M15FlF+I+Y8w6x9VWVHG9u4Kjm/POHgFNZRk2ZnZAAxxEYbSfTOZAAAAAElFTkSuQmCC",
+                "x_large": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/a94bff82-afe8-4d4c-baa1-eb13b7aa764c.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Villa Regina",
+                "id": 135711505,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=large",
+                "scrim_color": "",
+                "small": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=small",
+                "sort_order": 9,
+                "thumbnail": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=small",
+                "preview_encoded_png": "",
+                "x_large": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/ff849223-55ef-490f-b9ed-ada8047c90d0.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.3331454340473505
+            },
+            {
+                "caption": "Villa Regina",
+                "id": 135710352,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=large",
+                "scrim_color": "#2F3D2E",
+                "small": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=small",
+                "sort_order": 10,
+                "thumbnail": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWmc1vwAAwv77Q/qsRkN/QFFVT0kJCIgDg0PAPnt+PwBNImVBy0oGAP+WQj5I/3syukTMF6sxJYAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/c8287864-1692-4135-935e-6b3d3626c493.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Villa Regina",
+                "id": 135713568,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=large",
+                "scrim_color": "#2C3928",
+                "small": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=small",
+                "sort_order": 11,
+                "thumbnail": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPMXfTw469/Euy/v3188vRkI6Ohi7m4hJAsB5OsIBcPFydjbkkCDxuDoqSQvAAnKzsnAO9qDkgYZlhXAAAAAElFTkSuQmCC",
+                "x_large": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/32f2f8b7-0403-4efe-af9d-0b2287473812.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Terrace",
+                "id": 135713297,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=large",
+                "scrim_color": "",
+                "small": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=small",
+                "sort_order": 12,
+                "thumbnail": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=small",
+                "preview_encoded_png": "",
+                "x_large": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/ebf09d9c-912f-4233-aa2e-0b9cb1a83e1e.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Lounge",
+                "id": 161980713,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=large",
+                "scrim_color": "#504B4F",
+                "small": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=small",
+                "sort_order": 13,
+                "thumbnail": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AeTVzPj6/fn+AwgD/N/x+wHe2+D39/b59O8PFBji6OsBtrCy7OvpDQsKJB8Z/AMKHnEc7FXYDBMAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/5d56fcfe-89b0-4cfe-a3ce-9fad52505e39.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Lounge",
+                "id": 161980778,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=large",
+                "scrim_color": "#4E4443",
+                "small": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=small",
+                "sort_order": 14,
+                "thumbnail": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdHCvggHBP/89vH3Aff18gHPyM4NEhLs5uILERTo29QBxqmc3PMCBwME3drXLSoqjbAZKjoDHNsAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/da93162d-921a-4829-9dde-a143176175fe.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Kitchen",
+                "id": 161980679,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=large",
+                "scrim_color": "#594C43",
+                "small": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=small",
+                "sort_order": 15,
+                "thumbnail": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ae3gz/7+/AH9+Pz+AgH+/gHn5Nzx6eEJAPMFBw/19PIB4NnRDRMZ4NfPIBwZ+fXt+mEdVL2oAYsAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/ccc64adf-977c-47cb-97a7-98cca9078620.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Terrace",
+                "id": 135712355,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=large",
+                "scrim_color": "#2F3B27",
+                "small": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=small",
+                "sort_order": 16,
+                "thumbnail": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYqCaxQH9PUXQv4WNAYLEwFVbmc0EfP0H0sA/P/p4NYBa2VQMCIT6vwB8/Lw2foKzg8VvD63aeMAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/d96cde59-ae0c-4684-9f9d-c9b450c679c9.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Indoor dining area",
+                "id": 161980639,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=large",
+                "scrim_color": "#6F5A49",
+                "small": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=small",
+                "sort_order": 17,
+                "thumbnail": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdG3mQcFAwEDBwYICQkNEgHew6UDAgECFjTr4c8GDRMB0rmZDhAOAwgY4NjSHSo1I8ANUJh7U6oAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/417381d7-dadb-4031-b755-c119222d4900.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Barbecue",
+                "id": 135701528,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=large",
+                "scrim_color": "#384035",
+                "small": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=small",
+                "sort_order": 18,
+                "thumbnail": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWJgTxEVGBQWGr/i//jw2AFvZ1dCPjbz5uUNGh3Y5ecBbG1eSUAt7+j5FxkZAgUH46oTlN4i7AYAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/32c15254-7a92-49b7-90cf-10d8f1dd0a43.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5005636978579482
+            },
+            {
+                "caption": "Bedroom 1",
+                "id": 161980551,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=large",
+                "scrim_color": "#B15842",
+                "small": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=small",
+                "sort_order": 19,
+                "thumbnail": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AfTEnv8JEQX78Prz+QMMCQHvz7z+HTMK3rX9AAkA//kB6b+d+xMqAfjmAwL39e/vaxMZ7/n/Z+kAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/330a1733-d292-44f3-9539-8f9b0bea2a06.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bedroom 2",
+                "id": 161980494,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=large",
+                "scrim_color": "#655146",
+                "small": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=small",
+                "sort_order": 20,
+                "thumbnail": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdbCtBkYEv78/fv/CvcCDwHaxrgNDw/67esEER8DEhsB8NzAAf/+8u7v8vMC+fPsUW8aZ0VaBzgAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/fa9df6f0-18e3-400f-89d8-121fd9396171.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bedroom 2",
+                "id": 161980373,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=large",
+                "scrim_color": "#543E31",
+                "small": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=small",
+                "sort_order": 21,
+                "thumbnail": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ad2+tQ8H8P0JEf8AAf/5+wHpzbr/AwL09vgHCQj15+sBw6qPEQ4UAwkQ9/HsBvXhXA8YlPkydM8AAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/3be3dd30-be40-4edb-99cf-b6fb8add49ca.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bedroom 3",
+                "id": 161984070,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=large",
+                "scrim_color": "#979485",
+                "small": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=small",
+                "sort_order": 22,
+                "thumbnail": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdTYvQYF9/z7BgEFEgT+5gHV2cD/Afn++wEGBRIIAuwB49TE5/H2/wAFEg4F/QD5PrsXSJTrQ+QAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/d8354801-f9de-402a-91ed-5c92aa68a2da.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bedroom 3",
+                "id": 161984083,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=large",
+                "scrim_color": "#B89A7E",
+                "small": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=small",
+                "sort_order": 23,
+                "thumbnail": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AeDgzgQA6Q//Avv+/f8GBwHV3NYWCO7+AAD8/fr+/QMB19PEBAIC//79/v/uAAURha8ahIyn7h4AAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/413d742d-b117-4c07-a536-01f89776cdfd.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bathroom 1",
+                "id": 161980887,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=large",
+                "scrim_color": "#EF4746",
+                "small": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=small",
+                "sort_order": 24,
+                "thumbnail": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AfK/sgAeHAD78wPw9vgABQH0v7n8Hx3/8uQJ7PH7CwoB7cXAABMSBOfZ+wUFCtPXUIUX+Fq/1hAAAAAASUVORK5CYII=",
+                "x_large": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/7057b3a0-3210-4035-b082-2e9a9dcf4f10.jpg?aki_policy=xx_large",
+                "picture_orientation": "LANDSCAPE",
+                "aspect_ratio": 1.5003750937734435
+            },
+            {
+                "caption": "Bathroom 2",
+                "id": 161980831,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=large",
+                "scrim_color": "#5993A1",
+                "small": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=small",
+                "sort_order": 25,
+                "thumbnail": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AeDb0QcGBgwG/QHi3NECBQny9OsB4NzSAQAA8vf0Ad3Yzv3/AgL/+QHOzMX2Awv7+vpwGxtdLgKmkAAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/130ba260-4022-4cd1-8c90-d20614212eb7.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.6665
+            },
+            {
+                "caption": "Bathroom 3",
+                "id": 161980266,
+                "is_professional": false,
+                "large": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=large",
+                "large_cover": "https://a0.muscache.com/ac/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?interpolation=lanczos-none&size=large_cover&output-format=jpg&output-quality=70",
+                "medium": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=medium",
+                "mini_square": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=mini_square",
+                "picture": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=large",
+                "scrim_color": "#294E60",
+                "small": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=small",
+                "sort_order": 26,
+                "thumbnail": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=small",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AfPcufD0Aff7/AHx27zy+AP5+fUB9eC/7fMA9vf0AefXvPL3AOju7wGsu7r5Bwzk5d+NFSMPEfQy2AAAAABJRU5ErkJggg==",
+                "x_large": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=x_large",
+                "x_large_cover": "https://a0.muscache.com/ac/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?interpolation=lanczos-none&size=x_large_cover&output-format=jpg&output-quality=70",
+                "x_medium": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=x_medium",
+                "x_small": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=x_small",
+                "xl_picture": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=x_large",
+                "xx_large": "https://a0.muscache.com/im/pictures/ce58f1b5-995b-4648-b64c-369f28e9b1f9.jpg?aki_policy=xx_large",
+                "picture_orientation": "PORTRAIT",
+                "aspect_ratio": 0.6665
+            }
+        ],
+        "primary_host": {
+            "about": "Villa Manager and Tour Operator\r\nEos Travel",
+            "badges": [
+                {
+                    "count": 1735,
+                    "id": "reviews",
+                    "image_path": null,
+                    "image_size": null,
+                    "label": "1735 commentaires",
+                    "link": "/users/show/16860801#reviews"
+                },
+                {
+                    "count": null,
+                    "id": "verified",
+                    "image_path": "badges/verified_badge.png",
+                    "image_size": "32x32",
+                    "label": "V\u00e9rifi\u00e9",
+                    "link": null
+                }
+            ],
+            "host_name": "Sofronios",
+            "id": 16860801,
+            "identity_verified": true,
+            "is_superhost": false,
+            "languages": [
+                "English",
+                "Deutsch",
+                "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+                "Italiano",
+                "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+            ],
+            "languages_as_string": "English, Deutsch, \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac, Italiano, \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+            "location_long": "Corfou, Gr\u00e8ce",
+            "member_since": "juin 2014",
+            "member_since_full_str": "Membre depuis juin 2014",
+            "profile_path": "/users/show/16860801",
+            "profile_pic_path": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+            "response_rate_without_na": "100%",
+            "response_time_without_na": "Moins d'une heure",
+            "smart_name": "Sofronios",
+            "user_profile_info_i18n": null,
+            "has_inclusion_badge": false,
+            "profile_pic_path_large": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_large",
+            "host_intro_tags": [
+                "1735 commentaires",
+                "V\u00e9rifi\u00e9"
+            ]
+        },
+        "review_highlight": null,
+        "room_and_property_type": "Villa enti\u00e8re",
+        "room_type_category": "entire_home",
+        "sectioned_description": {
+            "access": null,
+            "author_type": "human",
+            "description": "Superb villa with private swimming pool located above the famous Agni Bay. The villa has 3 air-conditioned bedrooms and can sleep up to 7 guests. High quality interiors and amazing views. Sunbeds on the beach included in the rental price.\n\nVilla Regina is a stunning renovated stone-built property. Located above the famous Agni Bay, the villa offers a private swimming pool, 3 bedrooms and magnificent views over the Ionian Sea. Villa Regina can sleep up to 7 guests in stylish and comfortable interiors.\n\nThe property is set over 2 levels, joined together via an exterior staircase. The upper one has a double bedroom, a twin bedroom, a lounge, a kitchen, a dining area, and 2 family shower rooms. The ground floor has a double bedroom with en-suite shower room. Extensive balconies provide breathtaking views.\n\nThe infinity-style private swimming pool measures 8x5 metres and is provided with sunbeds and shades: the perfect place to relax and refresh while enjoying the views!\n\nINCLUDED IN THE PRICE: air-conditioning, maid service, hand and bath towels, pool towels, free sunbeds on Agni Beach, (please call at owner's Beach Bar at Agni waterfront).",
+            "detected_languages": null,
+            "house_rules": null,
+            "interaction": null,
+            "locale": "en",
+            "localized_language_name": "Anglais",
+            "name": "Villa Regina: Above Agni, superb views and pool",
+            "neighborhood_overview": null,
+            "notes": null,
+            "space": "Villa Regina is a stunning renovated stone-built property. Located above the famous Agni Bay, the villa offers a private swimming pool, 3 bedrooms and magnificent views over the Ionian Sea. Villa Regina can sleep up to 7 guests in stylish and comfortable interiors.\n\nThe property is set over 2 levels, joined together via an exterior staircase. The upper one has a double bedroom, a twin bedroom, a lounge, a kitchen, a dining area, and 2 family shower rooms. The ground floor has a double bedroom with en-suite shower room. Extensive balconies provide breathtaking views.\n\nThe infinity-style private swimming pool measures 8x5 metres and is provided with sunbeds and shades: the perfect place to relax and refresh while enjoying the views!\n\nINCLUDED IN THE PRICE: air-conditioning, maid service, hand and bath towels, pool towels, free sunbeds on Agni Beach, (please call at owner's Beach Bar at Agni waterfront).",
+            "summary": "Superb villa with private swimming pool located above the famous Agni Bay. The villa has 3 air-conditioned bedrooms and can sleep up to 7 guests. High quality interiors and amazing views. Sunbeds on the beach included in the rental price.",
+            "transit": null
+        },
+        "star_rating": 5.0,
+        "tier_id": 0,
+        "user": {
+            "id": 16860801,
+            "host_name": "Sofronios",
+            "profile_path": "/users/show/16860801",
+            "profile_pic_path": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium"
+        },
+        "book_it_url": "/payments/book?hosting_id=11996314",
+        "calendar_last_updated_at": null,
+        "guest_controls": {
+            "allows_children": true,
+            "allows_infants": true,
+            "allows_pets": false,
+            "allows_smoking": false,
+            "allows_events": false,
+            "id": 11996314,
+            "host_check_in_time_message": "",
+            "localized_structured_house_rules_with_tips": null,
+            "p3_structured_house_rules": [
+                "Non fumeur",
+                "Pas d'animaux",
+                "Pas de f\u00eate ni de soir\u00e9e"
+            ],
+            "structured_house_rules": [
+                "Non fumeur",
+                "Pas d'animaux",
+                "Pas de f\u00eate ni de soir\u00e9e"
+            ],
+            "structured_house_rules_with_tips": [
+                {
+                    "key": "is_smoking_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Non fumeur",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_smoking"
+                },
+                {
+                    "key": "are_pets_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Pas d'animaux",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_pets"
+                },
+                {
+                    "key": "are_events_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Pas de f\u00eate ni de soir\u00e9e",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_party"
+                }
+            ],
+            "allows_non_china_users": true
+        },
+        "localized_minimum_nights_description": null,
+        "min_nights": 4,
+        "native_currency": "EUR",
+        "collection_kicker": null,
+        "show_policy_details": true,
+        "has_we_work_location": false,
+        "is_business_travel_ready": false,
+        "additional_hosts": [],
+        "applicable_disaster": null,
+        "hometour_rooms": [
+            {
+                "details": [],
+                "highlights_hometour": [
+                    "1 lit double"
+                ],
+                "highlights_preview": [],
+                "is_shared": true,
+                "id": 853816,
+                "name": "",
+                "name_with_type": "Chambre 1",
+                "photos": [],
+                "room_type_id": 1,
+                "icons": [
+                    {
+                        "type": "double_bed",
+                        "url": ""
+                    }
+                ],
+                "hometour_name": null
+            },
+            {
+                "details": [],
+                "highlights_hometour": [
+                    "1 lit double"
+                ],
+                "highlights_preview": [],
+                "is_shared": true,
+                "id": 853817,
+                "name": "",
+                "name_with_type": "Chambre 2",
+                "photos": [],
+                "room_type_id": 1,
+                "icons": [
+                    {
+                        "type": "double_bed",
+                        "url": ""
+                    }
+                ],
+                "hometour_name": null
+            },
+            {
+                "details": [],
+                "highlights_hometour": [
+                    "2 lits simples"
+                ],
+                "highlights_preview": [],
+                "is_shared": true,
+                "id": 853819,
+                "name": "",
+                "name_with_type": "Chambre 3",
+                "photos": [],
+                "room_type_id": 1,
+                "icons": [
+                    {
+                        "type": "single_bed",
+                        "url": ""
+                    },
+                    {
+                        "type": "single_bed",
+                        "url": ""
+                    }
+                ],
+                "hometour_name": null
+            },
+            {
+                "details": [],
+                "highlights_hometour": [
+                    "1 canap\u00e9"
+                ],
+                "highlights_preview": [],
+                "is_shared": true,
+                "id": 853821,
+                "name": "",
+                "name_with_type": "Espaces communs",
+                "photos": [],
+                "room_type_id": 7,
+                "icons": [
+                    {
+                        "type": "couch",
+                        "url": ""
+                    }
+                ],
+                "hometour_name": null
+            }
+        ],
+        "hometour_sections": [],
+        "alternate_sectioned_description_for_p3": {
+            "access": null,
+            "author_type": "google_nmt",
+            "description": "Superbe villa avec piscine priv\u00e9e situ\u00e9e au dessus de la c\u00e9l\u00e8bre baie d'Agni. La villa dispose de 3 chambres climatis\u00e9es et peut accueillir jusqu'\u00e0 7 personnes. Int\u00e9rieurs de haute qualit\u00e9 et une vue imprenable. Chaises longues sur la plage incluses dans le prix de location. \n\n Villa Regina est une superbe propri\u00e9t\u00e9 en pierre r\u00e9nov\u00e9e. Situ\u00e9e au-dessus de la c\u00e9l\u00e8bre baie d'Agni, la villa dispose d'une piscine priv\u00e9e, de 3 chambres et d'une vue magnifique sur la mer Ionienne. La Villa Regina peut accueillir jusqu'\u00e0 7 personnes dans des int\u00e9rieurs \u00e9l\u00e9gants et confortables. \n\n La propri\u00e9t\u00e9 est r\u00e9partie sur 2 niveaux, reli\u00e9s entre eux par un escalier ext\u00e9rieur. La chambre sup\u00e9rieure comprend une chambre double, une chambre lits jumeaux, un salon, une cuisine, un coin repas et 2 salles de douche familiales. Le rez-de-chauss\u00e9e comprend une chambre double avec salle de douche attenante. De vastes balcons offrent des vues \u00e0 couper le souffle. \n\n La piscine priv\u00e9e de style infini mesure 8 x 5 m\u00e8tres et est \u00e9quip\u00e9e de transats et de stores: l\u2019endroit id\u00e9al pour se d\u00e9tendre et se rafra\u00eechir tout en profitant de la vue! \n\n COMPRIS DANS LE PRIX: climatisation, service de nettoyage, serviettes de toilette et de bain, serviettes de piscine, transats gratuits sur Agni Beach (veuillez appeler au Beach Bar du propri\u00e9taire, au bord de l'eau d'Agni).",
+            "detected_languages": null,
+            "house_rules": null,
+            "interaction": null,
+            "locale": "fr",
+            "localized_language_name": "Fran\u00e7ais",
+            "name": "Villa Regina: Au-dessus d'Agni, vues superbes et piscine",
+            "neighborhood_overview": null,
+            "notes": null,
+            "space": "Villa Regina est une superbe propri\u00e9t\u00e9 en pierre r\u00e9nov\u00e9e. Situ\u00e9e au-dessus de la c\u00e9l\u00e8bre baie d'Agni, la villa dispose d'une piscine priv\u00e9e, de 3 chambres et d'une vue magnifique sur la mer Ionienne. La Villa Regina peut accueillir jusqu'\u00e0 7 personnes dans des int\u00e9rieurs \u00e9l\u00e9gants et confortables. \n\n La propri\u00e9t\u00e9 est r\u00e9partie sur 2 niveaux, reli\u00e9s entre eux par un escalier ext\u00e9rieur. La chambre sup\u00e9rieure comprend une chambre double, une chambre lits jumeaux, un salon, une cuisine, un coin repas et 2 salles de douche familiales. Le rez-de-chauss\u00e9e comprend une chambre double avec salle de douche attenante. De vastes balcons offrent des vues \u00e0 couper le souffle. \n\n La piscine priv\u00e9e de style infini mesure 8 x 5 m\u00e8tres et est \u00e9quip\u00e9e de transats et de stores: l\u2019endroit id\u00e9al pour se d\u00e9tendre et se rafra\u00eechir tout en profitant de la vue! \n\n COMPRIS DANS LE PRIX: climatisation, service de nettoyage, serviettes de toilette et de bain, serviettes de piscine, transats gratuits sur Agni Beach (veuillez appeler au Beach Bar du propri\u00e9taire, au bord de l'eau d'Agni).",
+            "summary": "Superbe villa avec piscine priv\u00e9e situ\u00e9e au dessus de la c\u00e9l\u00e8bre baie d'Agni. La villa dispose de 3 chambres climatis\u00e9es et peut accueillir jusqu'\u00e0 7 personnes. Int\u00e9rieurs de haute qualit\u00e9 et une vue imprenable. Chaises longues sur la plage incluses dans le prix de location.",
+            "transit": null
+        },
+        "initial_description_author_type": "human",
+        "localized_check_in_time_window": "Apr\u00e8s 13:00",
+        "localized_check_out_time": "10:00",
+        "localized_city": "Agni, Gimari",
+        "localized_listing_expectations": [
+            {
+                "added_details": null,
+                "title": "Le logement comprend des marches ou escaliers",
+                "type": "requires_stairs",
+                "airmoji_key": "house_rules_stairs"
+            }
+        ],
+        "localized_room_type": "Logement entier",
+        "city_guidebook": null,
+        "country_code": "GR",
+        "display_exact_location": true,
+        "host_guidebook": null,
+        "lat": 39.739,
+        "lng": 19.925,
+        "location_title": "Agni, Gimari, Corfu, Gr\u00e8ce",
+        "neighborhood_id": null,
+        "p3_event_data_logging": {
+            "accuracy_rating": 10,
+            "amenities": [
+                8,
+                4,
+                9,
+                7,
+                33,
+                41,
+                5,
+                1,
+                46,
+                45,
+                30,
+                44,
+                40,
+                77,
+                64,
+                72,
+                90,
+                93,
+                92,
+                89,
+                91,
+                95,
+                57,
+                104,
+                85,
+                99,
+                100,
+                101,
+                39,
+                36,
+                35,
+                37
+            ],
+            "bed_type": null,
+            "cancel_policy": null,
+            "checkin_rating": 10,
+            "cleanliness_rating": 10,
+            "communication_rating": 10,
+            "description_language": "en",
+            "friend_count": null,
+            "guest_satisfaction_overall": 97,
+            "hosting_id": 11996314,
+            "instant_book_possible": null,
+            "is_superhost": false,
+            "listing_lat": 39.73827,
+            "listing_lng": 19.92447,
+            "location_rating": 10,
+            "page": "p3",
+            "person_capacity": 7,
+            "pdp_page_type": 1,
+            "picture_count": null,
+            "price": null,
+            "response_rate_shown": null,
+            "response_time_shown": null,
+            "room_type": "Entire home/apt",
+            "saved_to_wishlist_count": null,
+            "home_tier": 1,
+            "time_since_last_calendar_update": null,
+            "utc_offset": null,
+            "value_rating": 9,
+            "visible_review_count": 23,
+            "home_collection": null
+        },
+        "paid_growth_remarketing_listing_ids": [
+            11996314
+        ],
+        "commercial_host_info": {
+            "id": 9103,
+            "user_id": 16860801,
+            "host_type": "EU",
+            "business_name": "\u03a3\u03a9\u03a6\u03a1\u039f\u039d\u0399\u039f\u03a3 \u03a3\u03a0\u039b\u0391\u0393\u039a\u039f\u03a5\u039d\u0399\u0391\u03a3, EOS TRAVEL",
+            "legal_representatives": "\u03a3\u03a9\u03a6\u03a1\u039f\u039d\u0399\u039f\u03a3 \u03a3\u03a0\u039b\u0391\u0393\u039a\u039f\u03a5\u039d\u0399\u0391\u03a3",
+            "apt": "",
+            "street": "\u0392\u039b\u0391\u03a7\u0391\u03a4\u0399\u039a\u0391 \u0393\u0399\u039c\u0391\u03a1\u0399\u039f\u03a5",
+            "city": "\u039a\u0395\u03a1\u039a\u03a5\u03a1\u0391",
+            "zipcode": "49083",
+            "state": "\u039a\u0395\u03a1\u039a\u03a1\u03a5\u03a1\u0391\u03a3",
+            "country": "GR",
+            "registration_numbers": "",
+            "vat_number": "047136312",
+            "email": "sofronios@gmail.com",
+            "phone_number": null,
+            "additional_info": ""
+        },
+        "flag_info": {
+            "id": null,
+            "redacted": null
+        },
+        "license": null,
+        "p3_listing_flag_options": [],
+        "p3_review_flag_options": [],
+        "requires_license": true,
+        "should_hide_action_buttons": false,
+        "should_show_business_details": null,
+        "show_edit_mode": false,
+        "support_cleaner_living_wage": null,
+        "p3_display_review_summary": true,
+        "review_details_interface": {
+            "display_review_summary": true,
+            "host_other_property_review_count": 1712,
+            "review_count": 23,
+            "review_score": 97,
+            "review_summary": [
+                {
+                    "category": "accuracy",
+                    "value": 10,
+                    "label": "Pr\u00e9cision",
+                    "localized_rating": "4,8",
+                    "percentage": 0.966
+                },
+                {
+                    "category": "communication",
+                    "value": 10,
+                    "label": "Communication",
+                    "localized_rating": "4,9",
+                    "percentage": 0.982
+                },
+                {
+                    "category": "cleanliness",
+                    "value": 10,
+                    "label": "Propret\u00e9",
+                    "localized_rating": "5,0",
+                    "percentage": 1.0
+                },
+                {
+                    "category": "location",
+                    "value": 10,
+                    "label": "Emplacement",
+                    "localized_rating": "4,9",
+                    "percentage": 0.9720000000000001
+                },
+                {
+                    "category": "checkin",
+                    "value": 10,
+                    "label": "Arriv\u00e9e",
+                    "localized_rating": "4,9",
+                    "percentage": 0.982
+                },
+                {
+                    "category": "value",
+                    "value": 9,
+                    "label": "Qualit\u00e9-prix",
+                    "localized_rating": "4,7",
+                    "percentage": 0.9359999999999999
+                }
+            ],
+            "review_sorting_options": null,
+            "n_reviews_per_page": 7,
+            "review_tag_summary": null
+        },
+        "sorted_reviews": [
+            {
+                "comments": "Superbe maison un peu excentr\u00e9 voiture n\u00e9cessaire! Magnifique vue, maison bien \u00e9quip\u00e9e superbe petite piscine. Calme, bref c \u00e9tait parfait!",
+                "id": 342050781,
+                "language": "fr",
+                "created_at": "2018-10-28T13:45:53.000Z",
+                "response": "Dear Julie,\r\nGood afternoon from Eos. \r\nI appreciate your positive feedback about our property and thanks very much for your time to review. \r\nWe do take pride in catering to our guests' needs the best way we can and I'm sure my colleagues had also enjoyed catering to your needs, as much as you enjoyed your stay.\r\nIf you're travelling to our area another time, do not hesitate to contact us and we are sure we will find you again the best solution for your preferences.\r\nUntil then, I wish you a wonderful time and all the best.\r\nWarmest regards\r\n\r\nThe Eos Team",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Julie",
+                    "host_name": "Julie",
+                    "id": 55370564,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/f639b892-f34a-4fe8-8681-c24ee21b8ab2.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/55370564",
+                    "is_superhost": false
+                },
+                "localized_date": "octobre 2018",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Wir haben uns an diesem sch\u00f6nen Platz, mit dieser herrlichen Aussicht und dem tollen Pool sehr wohl gef\u00fchlt und uns gut erholt. Wichtig, das Mietauto darf nicht zu gro\u00df sein, da die Parksituation beengt ist. Der Service alle paar Tage ist prima und unkompliziert.",
+                "id": 552694049,
+                "language": "de",
+                "created_at": "2019-10-22T12:22:48.000Z",
+                "response": "Dear Ingrid, \r\n\r\nHello from Eos Villas.\r\n\r\nMany thanks for your holiday feedback.\r\n\r\nI am delighted that your stay with us was enjoyable. The whole Eos Team works hard to ensure that your holiday is a success, so it is always nice to hear positive feedback from our clients - it makes all the effort worthwhile.\r\n\r\nWe look forward to welcoming you back another time.\r\n\r\nWith kindest regards\r\n\r\nThe Eos Team.",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Ingrid",
+                    "host_name": "Ingrid",
+                    "id": 171604238,
+                    "picture_url": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+                    "profile_path": "/users/show/171604238",
+                    "is_superhost": false
+                },
+                "localized_date": "octobre 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "To be short and precise we have really enjoyed our stay at Villa Regina. It gave us memorable moments while sitting outside in the evening and looking into the sea. View was magnificent and relaxing one.\nAlso I want to emphasize that route into this villa is not the simplest one, but you will get used to it quite quickly. It has some steep hills and some sharp turns, but it's manageable. Parking space is quite narrow so consider renting smaller cars as I don't think you will place bigger one there or at least it will be some kind of a game to do that. Villa has everything you need for your stay (they even managed to get us child bed and chair). House has two floors, but they are not connected from the inside. We have considered this as an advantage - it gave some intimacy for our family. We haven't had any issues except the fact that in the last evening hot water disappeared on the first floor, but it wasn't a big deal. To sum up it was a good stay and we had a great week in Villa Regina.",
+                "id": 545385367,
+                "language": "en",
+                "created_at": "2019-10-12T12:57:39.000Z",
+                "response": "Dear Zivile, \r\n\r\nHello from Eos Villas.\r\n\r\nMany thanks for your holiday feedback.\r\n\r\nI am delighted that your stay with us was enjoyable. The whole Eos Team works hard to ensure that your holiday is a success, so it is always nice to hear positive feedback from our clients - it makes all the effort worthwhile.\r\n\r\nWe look forward to welcoming you back another time.\r\n\r\nWith kindest regards\r\n\r\nThe Eos Team.",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Zivile",
+                    "host_name": "Zivile",
+                    "id": 37905022,
+                    "picture_url": "https://a0.muscache.com/im/users/37905022/profile_pic/1436815800/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/37905022",
+                    "is_superhost": false
+                },
+                "localized_date": "octobre 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "The place exceeded our expectations as the view from the villa is truly breathtaking. It is nearby a lovely quiet bay, which is perfect for a more relaxed and calm vacation. The speedy communication of the hosts was excellent, as well as them allowing us to stay longer after the check out time as our flights were late in the evening.",
+                "id": 535781711,
+                "language": "en",
+                "created_at": "2019-09-25T12:42:48.000Z",
+                "response": "Dear Aiste, \r\n\r\nHello from Eos Villas.\r\n\r\nMany thanks for your holiday feedback.\r\n\r\nI am delighted that your stay with us was enjoyable. The whole Eos Team works hard to ensure that your holiday is a success, so it is always nice to hear positive feedback from our clients - it makes all the effort worthwhile.\r\n\r\nWe look forward to welcoming you back another time.\r\n\r\nWith kindest regards\r\n\r\nThe Eos Team.",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Aiste",
+                    "host_name": "Aiste",
+                    "id": 150229967,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/0372380f-2906-4636-8466-e94486a33c24.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/150229967",
+                    "is_superhost": false
+                },
+                "localized_date": "septembre 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "This villa has possibly one of the best pools and views of any place we've stayed in, we liked it so much we stayed there twice. The location is lovely, above Agni Bay, it has a large terrace around the pool but it is not as secluded as we like, as it is overlooked by a neighbouring property and the pool area is open to the road and can be seen from an adjacent access path, though neither are especially busy. The road to get there is quite narrow, winding and steep in places and the parking could feel very awkward for non-confident drivers. The house itself is comfortable and well-equipped but has a tricky layout, being on two separate levels with the largest bedroom in the annex by the pool. The kitchen and lounge are well designed, we personally found the style of the bathrooms and bedrooms a bit old-fashioned but everything worked well and we spent most of the time outside anyway. The management team were very responsive and acted quickly to address any problems we had.",
+                "id": 528394777,
+                "language": "en",
+                "created_at": "2019-09-13T10:56:26.000Z",
+                "response": null,
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Ian",
+                    "host_name": "Ian",
+                    "id": 24252468,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/cabfd2d8-457d-4d71-a43f-cae18a0f7ccb.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/24252468",
+                    "is_superhost": false
+                },
+                "localized_date": "septembre 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "We enjoyed our time at Villa Regina - the views from the pool over the bay will stay in our memories for a very long time!",
+                "id": 499345399,
+                "language": "en",
+                "created_at": "2019-07-31T13:40:18.000Z",
+                "response": "Dear Andy, \r\n\r\nHello from Eos Villas.\r\n\r\nMany thanks for your holiday feedback.\r\n\r\nI am delighted that your stay with us was enjoyable. The whole Eos Team works hard to ensure that your holiday is a success, so it is always nice to hear positive feedback from our clients - it makes all the effort worthwhile.\r\n\r\nWe look forward to welcoming you back another time.\r\n\r\nWith kindest regards\r\n\r\nThe Eos Team.",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Andy",
+                    "host_name": "Andy",
+                    "id": 246531199,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/dd971234-e342-4102-8dab-ce21e9e58c76.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/246531199",
+                    "is_superhost": false
+                },
+                "localized_date": "juillet 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            },
+            {
+                "comments": "Wonderful views above Agni.  Such a tranquil spot to enjoy a relaxing holiday.  We loved returning to the villa for a much needed swim - the pool and deck areas were wonderful.  thank you",
+                "id": 478585108,
+                "language": "en",
+                "created_at": "2019-06-30T11:33:57.000Z",
+                "response": "Dear Benjemin1 Jill, \r\n\r\nHello from Eos Villas.\r\n\r\nMany thanks for your holiday feedback.\r\n\r\nI am delighted that your stay with us was enjoyable. The whole Eos Team works hard to ensure that your holiday is a success, so it is always nice to hear positive feedback from our clients - it makes all the effort worthwhile.\r\n\r\n\r\nWe look forward to welcoming you back another time.\r\n\r\nWith kindest regards\r\n\r\nThe Eos Team.",
+                "reviewee": {
+                    "deleted": false,
+                    "first_name": "Sofronios",
+                    "host_name": "Sofronios",
+                    "id": 16860801,
+                    "picture_url": "https://a0.muscache.com/im/users/16860801/profile_pic/1403112956/original.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/16860801",
+                    "is_superhost": false
+                },
+                "reviewer": {
+                    "deleted": false,
+                    "first_name": "Benjemin1",
+                    "host_name": "Benjemin1",
+                    "id": 27716058,
+                    "picture_url": "https://a0.muscache.com/im/pictures/user/9e577b21-24a3-4b91-92a2-314bc4b2b727.jpg?aki_policy=profile_x_medium",
+                    "profile_path": "/users/show/27716058",
+                    "is_superhost": false
+                },
+                "localized_date": "juin 2019",
+                "collection_tag": null,
+                "rating": 5,
+                "localized_review": null,
+                "highlighted_review_sentence": null,
+                "highlight_review_preview": null,
+                "highlight_review_mentioned": null,
+                "read_more_logging_event_data": null,
+                "room_type_listing_title": null,
+                "room_type_listing_id": null
+            }
+        ],
+        "visible_review_count": 23,
+        "cover_photo_primary": null,
+        "host_interaction": null,
+        "host_quote": "",
+        "is_select_market": false,
+        "layout": null,
+        "nearby_airport_distance_descriptions": [],
+        "property_type_in_city": "",
+        "render_tier_id": 0,
+        "select_listing_tenets": [],
+        "other_property_types": [
+            1,
+            2,
+            3,
+            35,
+            37
+        ],
+        "p3_neighborhood_breadcrumb_details": [
+            {
+                "link_route": "/s/Agni--Gimari--Gr\u00e8ce",
+                "link_text": "Agni, Gimari,",
+                "search_text": "Agni, Gimari, Gr\u00e8ce"
+            },
+            {
+                "link_route": "/s/Corfu--Gr\u00e8ce",
+                "link_text": "Corfu,",
+                "search_text": "Corfu, Gr\u00e8ce"
+            },
+            {
+                "link_route": "/s/Gr\u00e8ce",
+                "link_text": "Gr\u00e8ce",
+                "search_text": "Gr\u00e8ce"
+            }
+        ],
+        "p3_seo_breadcrumb_details": [
+            {
+                "link_route": "/s/Gr\u00e8ce",
+                "link_text": "Gr\u00e8ce",
+                "search_text": "Gr\u00e8ce"
+            },
+            {
+                "link_route": "/s/Corfu--Gr\u00e8ce",
+                "link_text": "Corfu",
+                "search_text": "Corfu, Gr\u00e8ce"
+            },
+            {
+                "link_route": "/s/Agni--Gimari--Gr\u00e8ce",
+                "link_text": "Agni, Gimari",
+                "search_text": "Agni, Gimari, Gr\u00e8ce"
+            }
+        ],
+        "p3_seo_property_search_url": "/s/Agni--Gimari--Gr%C3%A8ce?listing_types[]=11",
+        "seo_features": {
+            "android_alternate_url": "android-app://com.airbnb.android/airbnb/rooms/11996314",
+            "android_deeplink": "airbnb://rooms/11996314",
+            "canonical_url": "https://www.airbnb.fr/rooms/11996314",
+            "iphone_deeplink": "airbnb://rooms/11996314",
+            "meta_description": "20 janv. 2020 - Logement entier \u00e0 93\u20ac. Superb villa with private swimming pool located above the famous Agni Bay. The villa has 3 air-conditioned bedrooms and can sleep up to 7 guests. H...",
+            "title": "Villa Regina: Above Agni, superb views and pool - Villas \u00e0 louer \u00e0 Agni, Gimari, Corfu, Gr\u00e8ce",
+            "breadcrumb_details": [
+                {
+                    "link_route": "/s/Gr\u00e8ce",
+                    "link_text": "Gr\u00e8ce",
+                    "search_text": "Gr\u00e8ce"
+                },
+                {
+                    "link_route": "/s/Corfu--Gr\u00e8ce",
+                    "link_text": "Corfu",
+                    "search_text": "Corfu, Gr\u00e8ce"
+                },
+                {
+                    "link_route": "/s/Agni--Gimari--Gr\u00e8ce",
+                    "link_text": "Agni, Gimari",
+                    "search_text": "Agni, Gimari, Gr\u00e8ce"
+                }
+            ],
+            "nearby_cities": [
+                {
+                    "canonical_location": "/s/Athens--Greece",
+                    "display_location": "Ath\u00e8nes",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Dubrovnik--Croatia",
+                    "display_location": "Dubrovnik",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Naples--Italy",
+                    "display_location": "Naples",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Hvar--Croatia",
+                    "display_location": "Hvar",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Catania--Italy",
+                    "display_location": "Catane",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Positano--Italy",
+                    "display_location": "Positano",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Sorrento--Italy",
+                    "display_location": "Sorrente",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Thessaloniki--Greece",
+                    "display_location": "Thessalonique",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Taormina--Italy",
+                    "display_location": "Taormina",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Sofia--Bulgaria",
+                    "display_location": "Sofia",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Sarajevo--Bosnia-and-Herzegovina",
+                    "display_location": "Sarajevo",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Budva--Montenegro",
+                    "display_location": "Budva",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Lecce--Italy",
+                    "display_location": "Lecce",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Bari--Italy",
+                    "display_location": "Bari",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Amalfi--Italy",
+                    "display_location": "Amalfi",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Makarska--Croatia",
+                    "display_location": "Makarska",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Korcula--Croatia",
+                    "display_location": "Kor\u010dula",
+                    "is_vr": false
+                },
+                {
+                    "canonical_location": "/s/Ostuni--Italy",
+                    "display_location": "Ostuni",
+                    "is_vr": false
+                }
+            ],
+            "neighborhood_breadcrumb_details": [
+                {
+                    "link_route": "/s/Agni--Gimari--Gr\u00e8ce",
+                    "link_text": "Agni, Gimari,",
+                    "search_text": "Agni, Gimari, Gr\u00e8ce"
+                },
+                {
+                    "link_route": "/s/Corfu--Gr\u00e8ce",
+                    "link_text": "Corfu,",
+                    "search_text": "Corfu, Gr\u00e8ce"
+                },
+                {
+                    "link_route": "/s/Gr\u00e8ce",
+                    "link_text": "Gr\u00e8ce",
+                    "search_text": "Gr\u00e8ce"
+                }
+            ],
+            "og_tags": {
+                "og_description": "Logement entier \u00e0 Agni, Gimari (Gr\u00e8ce). Superb villa with private swimming pool located above the famous Agni Bay. The villa has 3 air-conditioned bedrooms and can sleep up to 7 guests. H...",
+                "og_image": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_large",
+                "og_title": "Villa Regina: Above Agni, superb views and pool - Villas \u00e0 louer \u00e0 Agni, Gimari, Corfu, Gr\u00e8ce",
+                "og_type": "airbedandbreakfast:listing",
+                "og_url": "https://www.airbnb.fr/rooms/11996314",
+                "og_image_height": null,
+                "og_image_width": null
+            },
+            "other_property_types": [
+                {
+                    "id": 1,
+                    "option": "Appartements",
+                    "url": "/s/Agni--Gimari--Gr\u00e8ce?refinement_paths[]=homes&property_type_id[]=1"
+                },
+                {
+                    "id": 2,
+                    "option": "Maisons",
+                    "url": "/s/Agni--Gimari--Gr\u00e8ce?refinement_paths[]=homes&property_type_id[]=2"
+                },
+                {
+                    "id": 3,
+                    "option": "Chambres d'h\u00f4tes",
+                    "url": "/s/Agni--Gimari--Gr\u00e8ce?refinement_paths[]=homes&property_type_id[]=3"
+                },
+                {
+                    "id": 35,
+                    "option": "Lofts",
+                    "url": "/s/Agni--Gimari--Gr\u00e8ce?refinement_paths[]=homes&property_type_id[]=35"
+                },
+                {
+                    "id": 37,
+                    "option": "Appartements en r\u00e9sidence",
+                    "url": "/s/Agni--Gimari--Gr\u00e8ce?refinement_paths[]=homes&property_type_id[]=37"
+                }
+            ],
+            "property_search_url": "/s/Agni--Gimari--Gr%C3%A8ce?listing_types[]=11",
+            "rel_image_src": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_large",
+            "twitter_tags": {
+                "twitter_card": "photo",
+                "twitter_description": null,
+                "twitter_image": "https://a0.muscache.com/im/pictures/b8f07c2b-d562-4d25-95c5-4ff71dcad34c.jpg?aki_policy=x_large",
+                "twitter_title": null,
+                "twitter_url": "https://www.airbnb.fr/rooms/11996314"
+            },
+            "index_in_search_engines": true
+        },
+        "share_links": [
+            {
+                "channel_name": "facebook",
+                "url": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.airbnb.fr%2Frooms%2F11996314%3Fs%3D4",
+                "raw_url": "https://www.airbnb.fr/rooms/11996314?s=4",
+                "title": "Facebook",
+                "s": "4"
+            },
+            {
+                "channel_name": "twitter",
+                "url": "https://twitter.com/intent/tweet?source=tweetbutton&text=J%27adore+%21+%22Villa+Regina%3A+Above+Agni%2C+superb+views+and+pool+-+Villas+%C3%A0+louer+%C3%A0+Agni%2C+Gimari+%23Travel%22+%40airbnb&url=https%3A%2F%2Fwww.airbnb.fr%2Frooms%2F11996314%3Fs%3D5&related=airbnb",
+                "raw_url": null,
+                "title": "Twitter",
+                "s": "5"
+            },
+            {
+                "channel_name": "email",
+                "url": "mailto:?to=&body=D%C3%A9couvrez%20ce%20logement%20sur%20Airbnb%C2%A0! https%3A%2F%2Fwww.airbnb.fr%2Frooms%2F11996314%3Fs%3D1&subject=D%C3%A9couvrez%20ce%20logement%20sur%20Airbnb%C2%A0!",
+                "raw_url": null,
+                "title": "E-mail",
+                "s": "23"
+            },
+            {
+                "channel_name": "messenger",
+                "url": "http://www.facebook.com/dialog/send?app_id=138566025676&link=https%3A%2F%2Fwww.airbnb.fr%2Frooms%2F11996314%3Fs%3D25&redirect_uri=https%3A%2F%2Fwww.airbnb.fr%2Frooms%2F11996314%3Fs%3D25",
+                "raw_url": "https://www.airbnb.fr/rooms/11996314?s=25",
+                "title": "Messenger",
+                "s": "25"
+            },
+            {
+                "channel_name": "copy",
+                "url": "https://www.airbnb.fr/rooms/11996314?s=51",
+                "raw_url": null,
+                "title": "",
+                "s": "51"
+            },
+            {
+                "channel_name": "embed",
+                "url": "https://www.airbnb.fr/rooms/11996314?s=51",
+                "raw_url": null,
+                "title": "Int\u00e9grer",
+                "s": "51"
+            }
+        ],
+        "education_module": null,
+        "collection_promotion": null,
+        "reviews_order": "language_country",
+        "cover_photo_vertical": null,
+        "is_hotel": false,
+        "show_review_tag": false,
+        "accessibility_module": null,
+        "is_representative_inventory": false,
+        "highlights_impression_id": "db0d6811-9640-424a-a43f-5f6ba738d1fd",
+        "point_of_interests": [],
+        "has_essentials_amenity": true,
+        "china_points_of_interest": null,
+        "reservation_status": null,
+        "visibility": "world",
+        "categorized_preview_amenities": [
+            {
+                "category": "Standard",
+                "amenities": "Cuisine, Wi-Fi, Lave-linge, Climatisation, T\u00e9l\u00e9vision, et 15\u00a0autres"
+            },
+            {
+                "category": "Autres points forts",
+                "amenities": "Parking gratuit sur place, Piscine, Chaise haute, Lit parapluie, Lave-vaisselle, et 5\u00a0autres"
+            }
+        ],
+        "section_erf_configs": {
+            "amenities": [
+                {
+                    "experiment": "p3_homes_guest_education",
+                    "trebuchet": "p3_homes_guest_education_launch"
+                }
+            ],
+            "reviews": [
+                {
+                    "experiment": "p3_reviews_section_delivery_aa",
+                    "trebuchet": "p3_reviews_section_delivery_aa"
+                },
+                {
+                    "experiment": "p3_visualize_house_rules_web_v2",
+                    "trebuchet": "p3_visualize_house_rules_web_v2"
+                }
+            ],
+            "location": [
+                {
+                    "experiment": "p3_location_section_delivery_aa",
+                    "trebuchet": "p3_location_section_delivery_aa"
+                }
+            ]
+        },
+        "china_points_of_interest_matcha": {},
+        "security_deposit_details": null,
+        "page_view_type": "DEFAULT",
+        "preview_tags": [],
+        "see_all_hometour_sections": [],
+        "summary_section": null,
+        "education_modules": {
+            "plus_education_module_v2": null,
+            "plus_education_module_v1": null
+        },
+        "enable_highlights_voting": false,
+        "amenity_section": null,
+        "host_info_module": null,
+        "hometour_module": null,
+        "hero_module": {
+            "cover_photo_cta_text": null,
+            "categorized_photos": []
+        },
+        "summary_module": null,
+        "new_user_education_module": {
+            "entire_home_education_message": null,
+            "guest_support_education_message": null
+        },
+        "panorama": null,
+        "house_rules_module": {
+            "structured_rules": [
+                {
+                    "key": "is_smoking_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Non fumeur",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_smoking"
+                },
+                {
+                    "key": "are_pets_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Pas d'animaux",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_pets"
+                },
+                {
+                    "key": "are_events_allowed_as_host",
+                    "long_term_text": null,
+                    "text": "Pas de f\u00eate ni de soir\u00e9e",
+                    "tip": null,
+                    "details": null,
+                    "airmoji_key": "house_rules_no_party"
+                }
+            ],
+            "listing_expectations": [
+                {
+                    "added_details": null,
+                    "title": "Le logement comprend des marches ou escaliers",
+                    "type": "requires_stairs",
+                    "airmoji_key": "house_rules_stairs"
+                }
+            ],
+            "additional_rules": "",
+            "localized_listing_expectations": [
+                {
+                    "added_details": null,
+                    "title": "Le logement comprend des marches ou escaliers",
+                    "type": "requires_stairs",
+                    "airmoji_key": "house_rules_stairs"
+                }
+            ],
+            "localized_additional_rules": null,
+            "self_checkin_info": null,
+            "listing_expectations_with_icons": null,
+            "safety_disclosures": null
+        },
+        "reviews_module": {
+            "localized_overall_rating": "4,87",
+            "appreciation_tags": [
+                {
+                    "localized_text": "R\u00e9activit\u00e9",
+                    "localized_count_string": "5",
+                    "icon": "IconIndicatorChatBubble"
+                },
+                {
+                    "localized_text": "Propret\u00e9 impeccable",
+                    "localized_count_string": "4",
+                    "icon": "IconIndicatorTub"
+                }
+            ],
+            "review_header_highlight": null
+        },
+        "availability_module": {
+            "discount_phrase": null
+        },
+        "ugc_translation": null,
+        "pdp_guest_education_response": null,
+        "sections": [],
+        "metadata": {
+            "default_wishlist_name": null,
+            "hotel_listing_type": null,
+            "short_property_type": null
+        },
+        "p3_impression_id": "p3_1579547770_TQALTIU21juVgmHa",
+        "error_status": null,
+        "debug_output": null
+    },
+    "metadata": {}
+}
